@@ -20,7 +20,7 @@ Social distance monitoring and face mask detection system using a deep learning 
 
 ## Dataset and Weights
 Dataset and pretrained weights can be downloaded from the below link:
-https://drive.google.com/drive/folders/1OB-Nf5s3etAQHeRG1YeatMNyfDRZDKK2
+https://drive.google.com/drive/folders/1Mq1A9mC3maNbTEan12RxCHzjMmyMvZPb
 
 ## Demo
 ![](Results/Sample_Result.gif)
